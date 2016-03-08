@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2012\Projects\IRProject\IRProject\bin\Debug\IRProject.exe.config
+c:\users\user\documents\visual studio 2012\Projects\IRProject\IRProject\obj\Debug\IRProject.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\IRProject\IRProject\bin\Debug\IRProject.exe
+c:\users\user\documents\visual studio 2012\Projects\IRProject\IRProject\bin\Debug\IRProject.pdb
+c:\users\user\documents\visual studio 2012\Projects\IRProject\IRProject\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\user\documents\visual studio 2012\Projects\IRProject\IRProject\bin\Debug\Lucene.Net.dll
+c:\users\user\documents\visual studio 2012\Projects\IRProject\IRProject\bin\Debug\Lucene.Net.pdb
+c:\users\user\documents\visual studio 2012\Projects\IRProject\IRProject\bin\Debug\Lucene.Net.xml
+c:\users\user\documents\visual studio 2012\Projects\IRProject\IRProject\obj\Debug\IRProject.exe
+c:\users\user\documents\visual studio 2012\Projects\IRProject\IRProject\obj\Debug\IRProject.pdb
